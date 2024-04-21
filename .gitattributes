@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.py linguist-language=Python
+*.fst linguist-vendored
+*.csv linguist-vendored
+*.txt linguist-vendored
+*.bed linguist-vendored
+*.bim linguist-vendored
+*.fam linguist-vendored
