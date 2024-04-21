@@ -1,0 +1,27 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --bfile pruned_final_2
+  --fst
+  --out pruned_fst
+  --within populations.txt
+
+Random number seed: 1713171759
+12110 MB RAM detected; reserving 6055 MB for main workspace.
+94576 variants loaded from .bim file.
+2471 people (0 males, 0 females, 2471 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pruned_fst.nosex .
+2471 phenotype values loaded from .fam.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+--within: 6 clusters loaded, covering a total of 2471 people.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2471 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+94576 variants and 2471 people pass filters and QC.
+Note: No phenotypes present.
+Writing --fst report (6 populations) to pruned_fst.fst ... done.
+94576 markers with valid Fst estimates.
+Mean Fst estimate: 0.0466532
+Weighted Fst estimate: 0.0497045
+

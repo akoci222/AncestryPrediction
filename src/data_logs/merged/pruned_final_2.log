@@ -1,0 +1,43 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --bfile merged_updated_qc
+  --indep-pairwise 100 5 0.05
+  --out pruned_final_2
+
+Random number seed: 1713103597
+12110 MB RAM detected; reserving 6055 MB for main workspace.
+4962697 variants loaded from .bim file.
+2471 people (0 males, 0 females, 2471 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pruned_final_2.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2471 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+4962697 variants and 2471 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 339461 variants from chromosome 1, leaving 7391.
+Pruned 355456 variants from chromosome 2, leaving 7147.
+Pruned 326683 variants from chromosome 3, leaving 6176.
+Pruned 334729 variants from chromosome 4, leaving 6175.
+Pruned 299406 variants from chromosome 5, leaving 5620.
+Pruned 317174 variants from chromosome 6, leaving 5694.
+Pruned 281557 variants from chromosome 7, leaving 5271.
+Pruned 253439 variants from chromosome 8, leaving 4517.
+Pruned 216178 variants from chromosome 9, leaving 4328.
+Pruned 249240 variants from chromosome 10, leaving 4743.
+Pruned 237675 variants from chromosome 11, leaving 4429.
+Pruned 232608 variants from chromosome 12, leaving 4757.
+Pruned 189383 variants from chromosome 13, leaving 3544.
+Pruned 167582 variants from chromosome 14, leaving 3229.
+Pruned 149105 variants from chromosome 15, leaving 3127.
+Pruned 160250 variants from chromosome 16, leaving 3357.
+Pruned 143011 variants from chromosome 17, leaving 3243.
+Pruned 156719 variants from chromosome 18, leaving 3060.
+Pruned 136500 variants from chromosome 19, leaving 2760.
+Pruned 129545 variants from chromosome 20, leaving 2666.
+Pruned 98646 variants from chromosome 21, leaving 1566.
+Pruned 93765 variants from chromosome 22, leaving 1776.
+Pruning complete.  4867662 of 4962697 variants removed.
+Marker lists written to pruned_final_2.prune.in and pruned_final_2.prune.out .
+
+

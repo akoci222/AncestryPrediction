@@ -1,0 +1,23 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --bfile chr1
+  --geno 0.2
+  --make-bed
+  --mind 0.2
+  --out chr1_step1
+
+Random number seed: 1712864196
+12110 MB RAM detected; reserving 6055 MB for main workspace.
+6191833 variants loaded from .bim file.
+2548 people (0 males, 0 females, 2548 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to chr1_step1.nosex .
+0 people removed due to missing genotype data (--mind).
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2548 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+0 variants removed due to missing genotype data (--geno).
+6191833 variants and 2548 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to chr1_step1.bed + chr1_step1.bim + chr1_step1.fam ... done.
+
